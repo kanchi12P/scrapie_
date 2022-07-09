@@ -10,7 +10,7 @@ A web app that uses Python to quickly find recipes according to the ingredients 
 
 # How to run locally?
 
-The code files can be made to run locally on the system. One needs to download the .zip file of our codes from the github repo: https://github.com/InquisitiveMe15/Pathology-Lab-Management-System/ After extracting the files, one can navigate to the proper folders through the terminal.
+The code files can be made to run locally on the system. One needs to download the .zip file of our codes from the github repo.After extracting the files, one can navigate to the proper folders through the terminal.
 
 * Create a virtual environment locally using `python -m venv name` and actiavte it using `name/Scripts/activate`
 
